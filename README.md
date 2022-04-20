@@ -41,6 +41,14 @@ this model incorprates data from 3 main sources, public data available online, u
 
 Describe technologies and programming languages used. Visuals: https://docs.google.com/document/d/13Gn3I82HFuBrnXzYmuUG2czjQ3hpOHZ7tzblXYVPSJU/edit 
 
+## Installation
+
+ to run the project you can download the "export_263727140.tar.gz" file and upload it to tigergraph studio. this is the solution package with all the files and queries. 
+ 
+ or you can access our project solution using an observer role with the following credentials: user: visitor, password: car-killer. 
+
+
+
 
 ## Reflections 
 

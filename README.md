@@ -16,36 +16,58 @@ This difficulty leads to citizens using up to 2-4 hours of the day wasted on the
 
 ##Description:
 
-Explain what your project is trying to accomplish and how you utilized graph technology to achieve those goals. Describe how your submission is relevant to the problem statement and why it is impactful to the world. Remember to link your submission video here.
+Nowadays, navigation systems or apps such as Google Maps have a great impact on routing decisions, and could therefore help  avoid congestion formation. However, such systems rely on projections into the future to assess the trafﬁc state at the time of driving, provide public transportation personal recommendations. but could even  estimate savings or help cities create incentive  systems that nudge citizens to take alternatives and achieve a low vehicle usage with crypto payments or tokens.
 
-Tell us how your entry was the most...
+It is important to recognize that urban areas vary significantly across socioeconomic and geographic characteristics that may influence the effect of public transit supply. The benefits of public transit are likely to be significantly higher in regions with high population density, extensive public transit networks/low motorization rates, and large low-income populations who cannot afford private vehicle.
 
-Impactful in solving a real world problem Following the ODS Agenda 2030 Goal 11: Make cities and human settlements inclusive, safe, resilient and sustainable. based on this our proposal goal is create a system that learns as information changes, and as goals and requirements evolve. It resolves ambiguity and tolerates unpredictability. It is engineered to feed on dynamic data in real time.
+Ridesharing services have become increasingly prevalent in many parts of the world. As travel demand and vehicle ownership increase in developing countries, encouraging ridesharing could potentially help combat severe air pollution and congestion. By increasing the flexibility of travel and providing a new travel mode, ridesharing could increase income and build a circular economy.
 
-Innovative use case of graph This framework has many advantages for building multidimensional time series data: 1. The framework can maintain the original data representation in the form of a matrix. 2. The framework can reduce the amount of parameters in autoregressive model. in addition it provide data privacy protections and at the same time the algorithms understand, identify, and extract contextual elements such as, syntax, time, location, appropriate regulation, user profile, process, task and goal.
+Tools Usage : With a wide range of data streams now available from a rapidly growing number of sensors & GPS devices, we can now understand the health of our road networks.. To make our cities safer and  more efficient, local governments need to apply Data Science provided in the current solution, going beyond the analysis of historical data, to predicting the probability of incidents by location. travel patterns, money incentives, safe and secure public transport, smart light  traffic and street signals, and impact on new road or building construction.
 
-Ambitious and complex graph With the financed resources being able to develop and deploy the higher technical, user friendly and advanced integrated platform that combines AI and TigerGraph tools to create a circular economy where every user is interacting, making transactions, updating data, processing payment. etc.
-
-Applicable graph solution Nowadays, navigation systems or apps such as Google Maps have a great impact on routing decisions, and could therefore help to avoid congestion formation. However, such systems rely on projections into the future to assess the trafﬁc state at the time of driving, provide public transportation personal recommendations, estimate savings or incentive the low vehicle usage with crypto payments. It is important to recognize that urban areas vary significantly across socioeconomic and geographic characteristics that may influence the effect of public transit supply. The benefits of public transit are likely to be significantly higher in regions with high population density, extensive public transit networks/low moto
 
 #Data: 
 
 this model incorprates data from 3 main sources, public data available online, user submitted data and local goberment submitted data. the system will merge and relate the items and make them accessible for users. 
 
 
++-----------------------+-------------------------+-------------------------+
+| data entries          | tools                   | description             |
++-----------------------+-------------------------+-------------------------+
+| PUBLIC DATA           | GOOGLE MAP,             | Shared data across      |
+|                       | OPEN STREET MAP,        | systems and             |
+|                       | COPERNICUS              | organizations available |
+|                       |                         | on platforms via AP     |
++-----------------------+-------------------------+-------------------------+
+| ANONYMIZED USER DATA. | APP USAGE BY USER INPUT | Gathring information    |
+|                       |                         | on individuals served.  |
++-----------------------+-------------------------+-------------------------+
+| GOVERNMENT DATA.      | PUBLIC STATISTICS ON    | Gathering information   |
+|                       | PLATFORM BY CITY        | on cities or goverment  |
+|                       | TRACKING AND REPORTS    | institutions served.    |
++-----------------------+-------------------------+-------------------------+
 
-DATA ENTRIES PUBLIC DATA ANONYMIZED USER DATA GOVERNMENT DATA TOOLS GOOGLE MAP, OPEN STREET MAP. COPERNICUS DESCRIPTION: APP USAGE BY USER INPUT Shared data across systems and organizations available on platforms via API
 
-PUBLIC STATISTIC ON PLATFORM BY CITY TRACKING AND REPORTS Gathering information on cities or government institutions served.
+##Technology Stack: 
 
-Technology Stack: Describe technologies and programming languages used. Visuals: https://docs.google.com/document/d/13Gn3I82HFuBrnXzYmuUG2czjQ3hpOHZ7tzblXYVPSJU/edit Link websites or applications if needed to demonstrate your work. Dependencies State any dependencies and their versions needed to be installed to test this project. This may include programming languages, frameworks, libraries, and etc.
+Describe technologies and programming languages used. Visuals: https://docs.google.com/document/d/13Gn3I82HFuBrnXzYmuUG2czjQ3hpOHZ7tzblXYVPSJU/edit 
 
-Installation Please give detailed instructions on installing, configuring, and running the project so judges can fully replicate and assess it.
 
-This can include:
+##Reflections 
 
-Clone repository Install dependencies Access data Steps to build/run project Known Issues and Future Improvements Explain known liminations within the project and potential next steps.
+this was our first experience workng with tiger graph and graph databases in general, it was a step learning curve, but a fun project undoubtly. In retrospective the capabilities that graphs can achieve are super critical in modern data analysis aplications, because real world data is always complex and the true value of data analysis are the inter relationships and patterns that emerge from the complete coneected data sets. 
 
-Reflections Review the steps you took to create this project and the resources you were provided. Feel free to indiciate room for improvement and general reflections.
+certainly this was our first approach with tiger graph but it wont be the last, we are looking forward to incorporate this technology in future projects and continue developing our car kller aplication. 
 
-References Please give credit to other projects, videos, talks, people, and other sources that have inspired and influenced your project.
+
+##References 
+
+we explored and got inspired by this projects and approaches. 
+
+• https://medium.com/open-government-products/rerouting-buses-using-data-science-part-i-4d6c9d4f1f 
+• https://medium.com/open-government-products/modelling-the-public-transport-network-part-ii-a6da2f3bd28c
+• https://www.hindawi.com/journals/jat/si/249704/
+
+
+
+
+
